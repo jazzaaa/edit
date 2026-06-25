@@ -1,0 +1,5 @@
+pillow
+pillow-avif-plugin
+numpy
+imageio
+imageio-ffmpeg
